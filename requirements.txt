@@ -1,0 +1,14 @@
+langchain
+langchain-anthropic
+langchain-postgres
+psycopg2-binary
+pgvector
+beautifulsoup4
+requests
+python-dotenv
+fastapi
+uvicorn
+langgraph
+langsmith
+voyageai
+langsmith

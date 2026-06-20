@@ -1,0 +1,26 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Environment variables — never commit secrets
+.env
+
+# OS generated files
+.DS_Store
+.DS_Store?
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Node / React
+node_modules/
+frontend/dist/
+frontend/.env
+
+# Distribution / packaging
+dist/
+build/
