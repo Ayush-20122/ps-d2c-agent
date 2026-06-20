@@ -2,26 +2,24 @@
 
 A RAG-powered conversational AI agent that helps PlayStation players discover games, get personalized recommendations, and find answers — grounded in real game data from RAWG and IGDB.
 
-Built to mirror the technical stack of Sony Interactive Entertainment's Direct to Consumer ML Engineering team.
-
 ---
 
 ## How It Works
 
 ```
-Player Question
-      ↓
-FastAPI REST Endpoint
-      ↓
-LangGraph Agent
+      Player Question
+            ↓
+      FastAPI REST Endpoint
+            ↓
+      LangGraph Agent
       ↓              ↓
 Voyage AI         pgvector
 Embeddings        HNSW Search
       ↓              ↓
    Top-K Relevant Chunks
-      ↓
-Claude Sonnet 4.6
-      ↓
+            ↓
+      Claude Sonnet 4.6
+            ↓
 Grounded Answer + LangSmith Trace
 ```
 
