@@ -254,3 +254,6 @@ Every agent run is traced in LangSmith showing:
 
 **Ayush Bhattacharyya**
 [GitHub](https://github.com/Ayush-20122)
+
+This is an independent portfolio project and is not affiliated with, endorsed by, or connected to Sony Interactive Entertainment or PlayStation.
+Game data sourced from RAWG and IGDB APIs.
