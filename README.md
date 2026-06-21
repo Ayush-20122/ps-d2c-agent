@@ -253,5 +253,4 @@ Every agent run is traced in LangSmith showing:
 ## Author
 
 **Ayush Bhattacharyya**
-AI Engineer
 [GitHub](https://github.com/Ayush-20122)
